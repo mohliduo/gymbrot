@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|c:\\users\\banih\\downloads\\final project\\gymbrot\\gymbrot\\view\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|solutionrelative:gymbrot\\view\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|c:\\users\\banih\\downloads\\final project\\gymbrot\\gymbrot\\view\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|solutionrelative:gymbrot\\view\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|c:\\users\\banih\\downloads\\final project\\gymbrot\\gymbrot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|solutionrelative:gymbrot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|c:\\users\\banih\\downloads\\final project\\gymbrot\\gymbrot\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|solutionrelative:gymbrot\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|c:\\users\\banih\\downloads\\final project\\gymbrot\\gymbrot\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1185481-69C0-4908-BBFC-72746907FBC8}|GymBrot\\GymBrot.csproj|solutionrelative:gymbrot\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "GymBrot\\View\\Auth\\Login.cs",
+              "ToolTip": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Auth\\Login.cs",
+              "RelativeToolTip": "GymBrot\\View\\Auth\\Login.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAD4vxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:06:40.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "GymBrot\\View\\Auth\\Login.cs",
+              "ToolTip": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Auth\\Login.cs [Design]",
+              "RelativeToolTip": "GymBrot\\View\\Auth\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:41:37.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Main.cs",
+              "RelativeDocumentMoniker": "GymBrot\\View\\Main.cs",
+              "ToolTip": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Main.cs",
+              "RelativeToolTip": "GymBrot\\View\\Main.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAD4vwsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:39:35.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Main.cs",
+              "RelativeDocumentMoniker": "GymBrot\\View\\Main.cs",
+              "ToolTip": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\View\\Main.cs [Design]",
+              "RelativeToolTip": "GymBrot\\View\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:39:29.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\Program.cs",
+              "RelativeDocumentMoniker": "GymBrot\\Program.cs",
+              "ToolTip": "C:\\Users\\banih\\Downloads\\Final Project\\GymBrot\\GymBrot\\Program.cs",
+              "RelativeToolTip": "GymBrot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:37:35.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

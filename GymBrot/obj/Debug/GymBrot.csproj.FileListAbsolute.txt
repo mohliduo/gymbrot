@@ -1,0 +1,13 @@
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\bin\Debug\GymBrot.exe.config
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\bin\Debug\GymBrot.exe
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\bin\Debug\GymBrot.pdb
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\bin\Debug\Guna.UI2.dll
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.csproj.AssemblyReference.cache
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.Properties.Resources.resources
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.csproj.GenerateResource.cache
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.csproj.CoreCompileInputs.cache
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.csproj.Up2Date
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.exe
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.pdb
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.View.Auth.Login.resources
+C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.View.Main.resources
