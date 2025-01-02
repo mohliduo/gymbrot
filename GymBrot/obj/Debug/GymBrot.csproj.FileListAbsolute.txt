@@ -11,3 +11,36 @@ C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.exe
 C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.pdb
 C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.View.Auth.Login.resources
 C:\Users\banih\Downloads\Final Project\GymBrot\GymBrot\obj\Debug\GymBrot.View.Main.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\GymBrot.exe.config
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\GymBrot.exe
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\GymBrot.pdb
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.Properties.Resources.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.View.Auth.Login.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.View.Main.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.csproj.Up2Date
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.exe
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.pdb
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.View.Auth.Register.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.View.User.Home.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.View.User.Exercise.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.View.Component.ExerciseCard.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Debug\GymBrot.View.User.Dialog.ExerciseDetail.resources

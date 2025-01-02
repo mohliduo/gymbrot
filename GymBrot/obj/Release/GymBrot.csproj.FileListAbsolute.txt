@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Release\GymBrot.exe.config
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Release\GymBrot.exe
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Release\GymBrot.pdb
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\bin\Release\Guna.UI2.dll
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.Properties.Resources.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.View.Auth.Register.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.View.Auth.Login.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.View.Main.resources
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.csproj.Up2Date
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.exe
+C:\Users\Administrator\Documents\Kuliah\Semester 3\Pemrograman Lanjut\gymbrot\GymBrot\obj\Release\GymBrot.pdb

@@ -4,7 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using GymBrot.View;
 using GymBrot.View.Auth;
+using GymBrot.View.User.Dialog;
 
 namespace GymBrot
 {
@@ -18,7 +20,7 @@ namespace GymBrot
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login());
+            Application.Run(new ExerciseDetail());
         }
     }
 }
